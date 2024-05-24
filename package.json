@@ -1,5 +1,5 @@
 {
-  "name": "auto_shop_management_system",
+  "name": "anywhere_auto_god_mobile_mechanic_shop_management",
   "version": "0.1.0",
   "productName": "ASMS",
   "main": "main.js",
@@ -14,7 +14,8 @@
   "scripts": {
     "start": "electron ."
   },
-  "author": "Alexius Academia : Syncter Software Solutions",
+  "author": "Alexius Academia : Syncter Software Solution",
+  "author": "Crystal Deleon : Self",
   "license": "MIT",
-  "description": "A software for managing automotive repair shop."
+  "description": "A software for managing mobile automotive repair shops."
 }
