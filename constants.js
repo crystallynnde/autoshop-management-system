@@ -6,3 +6,4 @@ module.exports.transactionsTable = 'transactions';
 module.exports.vehiclesTable = 'vehicles';
 module.exports.vehicleOwnersTable = 'vehicle_owners';
 module.exports.workordersTable = 'work_orders';
+module.exports.conversationNotes='conversation_log';
